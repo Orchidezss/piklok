@@ -18,7 +18,7 @@ Piklok is my first project using Next.js, where I integrate real-time movie data
 ## 🚀 How to Run
 1. Clone this repository:
    ```sh
-   git clone https://github.com/username/piklok.git
+   git clone https://github.com/Orchidezss/piklok.git
    ```
 2. Navigate to the project folder:
    ```sh
