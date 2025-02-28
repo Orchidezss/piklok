@@ -46,5 +46,5 @@ Feel free to fork, submit pull requests, or provide feedback to improve Piklok!
 
 ---
 
-💡 **Created by [Your Name]**
+💡 **Created by Orchidezss**
 
